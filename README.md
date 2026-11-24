@@ -1,6 +1,6 @@
-# Лабораторна робота 5. Модульний моноліт
+﻿# Лабораторна робота 5. Модульний моноліт
 
-![tests](https://github.com/Callibri/lab5/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/Callibri/lab5_KPI/actions/workflows/tests.yml/badge.svg)
 
 Система розділена на три модулі в одному застосунку:
 
